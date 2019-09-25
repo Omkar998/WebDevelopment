@@ -1,0 +1,91 @@
+body{
+	
+	background-image:url(../images/img3.jpg);
+	background-repeat:no repeat;
+	background-size:100% 700px;
+}
+
+
+
+.simple-form{
+	
+	text-align:center;
+	margin:100px 400px;
+}
+
+#registration{
+	
+	width:100%;
+	background-color:yellow;
+	opacity:0.9;
+	padding:50px 0px;
+	
+}
+
+#login{
+	
+	width:100%;
+	background-color:yellow;
+	opacity:0.9;
+	padding:50px 0px;
+}	
+
+#button{
+	width:250px;
+	padding:10px;
+	border-radius:5px;
+	outline:0px;
+	
+}	
+
+#but1{
+	width:200px;
+	padding:10px;
+	border-radius:5px;
+	outline:0px;
+	background-color:red;
+	border:2px solid;
+	font-size:15px;
+	cursor:pointer;
+	 margin:30px;
+	 color:#3489db;
+	 transition:0.8s;
+	 position:relative;
+	 overflow:hidden;
+	 display: block;
+  max-width: 300px;
+  margin: auto;
+
+}
+#reg{
+	text-align:center;
+	margin:100px 400px;
+	color:black;
+}	
+	
+#but1:hover{
+	color:#fff;
+}
+#but2{
+		width:200px;
+	padding:10px;
+	border-radius:5px;
+	outline:0px;
+	background-color:red;
+	border:2px solid;
+	font-size:15px;
+	cursor:pointer;
+	 margin:10px;
+	 color:#3489db;
+	 transition:0.8s;
+	 position:relative;
+	 overflow:hidden;
+}
+
+#but2:hover{
+color:#fff;
+}	
+#reg1:hover{
+	color:blue;
+}	
+	
